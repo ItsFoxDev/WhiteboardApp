@@ -3,6 +3,6 @@
 🎨 A simple whiteboard app
 
 # ⬇️ Usage
-[Use online](https://itsfoxdev.github.io/whiteboardapp)
+[Use online](https://itsfoxdev.github.io/WhiteboardApp/)
 <br>
 [Download for mac](https://github.com/ItsFoxDev/WhiteboardApp/raw/main/appfiles/Whiteboard.zip)
