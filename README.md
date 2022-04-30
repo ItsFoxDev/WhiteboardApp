@@ -4,4 +4,5 @@
 
 # ⬇️ Usage
 [Use online](https://itsfoxdev.github.io/whiteboardapp)
+<br>
 [Download for mac](https://github.com/ItsFoxDev/WhiteboardApp/raw/main/appfiles/Whiteboard.zip)
